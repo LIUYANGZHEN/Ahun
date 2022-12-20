@@ -391,9 +391,9 @@ iptv
 ###分类
 iptv
 ###数据
-YanG-1989
+万首MV歌曲
 ##
-远程$https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
+远程$http://52bsj.vip:98/o5
 ####
 
 ####
@@ -402,9 +402,9 @@ iptv
 ###分类
 iptv
 ###数据
-gjwj666
+世界杯4K源
 ##
-远程$https://ghproxy.com/https://raw.githubusercontent.com/gjwj666/jichang/main/chuanmei.m3u
+远程$http://52bsj.vip:98/1316
 ####
 
 ####
@@ -413,9 +413,9 @@ iptv
 ###分类
 iptv
 ###数据
-Adultiptv
+🎪4K源
 ##
-远程$http://adultiptv.net/lists/all.m3u
+远程$http://52bsj.vip:98/1315
 ####
 
 ####
@@ -424,9 +424,9 @@ iptv
 ###分类
 iptv
 ###数据
-喵公子
+🇨🇳中华直播
 ##
-远程$http://shuyuan.miaogongzi.net/shuyuan/1670747660.txt
+远程$http://52bsj.vip:98/zhzb
 ####
 
 ####
@@ -435,20 +435,9 @@ iptv
 ###分类
 iptv
 ###数据
-爱薇
+🌴金秋直播
 ##
-远程$http://43.140.205.222:3000/InMemory/iptv/raw/branch/master/rule/yanse.txt
-####
-
-####
-###type
-iptv
-###分类
-iptv
-###数据
-道长加密
-##
-远程$https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/lives/苹果爱薇.txt
+远程$http://52bsj.vip:81/api/v3/file/get/62381/jq.txt?sign=qAfuOlrK3gWlYNqmv9-6XLZ5Nmm-M0imNDn2yE1YQlE%3D%3A0
 ####
 
 ####
