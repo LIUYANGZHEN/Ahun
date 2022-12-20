@@ -404,7 +404,7 @@ iptv
 ###数据
 世界杯4K源
 ##
-远程$http://120.53.102.254/live?url=http://52bsj.vip:98/1316
+远程$http://52bsj.vip:81/api/v3/file/get/64893/世界杯直播源.txt?sign=LNEJ-RFDqkPQZqgdd2vr2nEGVz5XgSVge7pAFH3xWvE=:0
 ####
 
 ####
