@@ -393,7 +393,7 @@ iptv
 ###数据
 万首MV歌曲
 ##
-远程$https://raw.githubusercontent.com/LIUYANGZHEN/-/main/MTV?token=GHSAT0AAAAAAB3Y7DCI2VW46CZI76VFJ3O2Y5CKVWQ
+远程$https://agit.ai/1753606713/ajun/raw/commit/8b784647f4c7422f9e846658b9efff9365106bdb/曲库大全.txt
 ####
 
 ####
