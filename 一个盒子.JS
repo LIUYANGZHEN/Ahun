@@ -415,7 +415,7 @@ iptv
 ###数据
 🎪4K源
 ##
-远程$https://raw.githubusercontent.com/LIUYANGZHEN/-/main/1315?token=GHSAT0AAAAAAB3Y7DCI76AAUCDQ3HZTAOY6Y5CKUMA
+远程$https://agit.ai/1753606713/ajun/raw/commit/d45e57a6286175cfe8d89d8f8c9aaac1d2d21ae8/1315
 ####
 
 ####
