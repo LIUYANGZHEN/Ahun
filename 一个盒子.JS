@@ -393,8 +393,8 @@ iptv
 ###数据
 万首MV歌曲
 ##
-远程$https://agit.ai/1753606713/ajun/raw/commit/8b784647f4c7422f9e846658b9efff9365106bdb/曲库大全.txt
-####
+远程$http://shuyuan.miaogongzi.net/shuyuan/1671654476.txt
+###
 
 ####
 ###type
