@@ -393,7 +393,7 @@ iptv
 ###数据
 万首MV歌曲
 ##
-远程$http://120.53.102.254/live?url=http://52bsj.vip:98/o5
+远程$https://raw.githubusercontent.com/LIUYANGZHEN/-/main/MTV?token=GHSAT0AAAAAAB3Y7DCI2VW46CZI76VFJ3O2Y5CKVWQ
 ####
 
 ####
@@ -404,8 +404,8 @@ iptv
 ###数据
 世界杯4K源
 ##
-远程$http://52bsj.vip:81/api/v3/file/get/64893/世界杯直播源.txt?sign=LNEJ-RFDqkPQZqgdd2vr2nEGVz5XgSVge7pAFH3xWvE=:0
-####
+远程$https://raw.githubusercontent.com/LIUYANGZHEN/-/main/1316?token=GHSAT0AAAAAAB3Y7DCIR5WGRCRP4722WA4UY5CKVBA
+###
 
 ####
 ###type
@@ -415,7 +415,7 @@ iptv
 ###数据
 🎪4K源
 ##
-远程$http://120.53.102.254/live?url=http://52bsj.vip:98/1315
+远程$https://raw.githubusercontent.com/LIUYANGZHEN/-/main/1315?token=GHSAT0AAAAAAB3Y7DCI76AAUCDQ3HZTAOY6Y5CKUMA
 ####
 
 ####
@@ -426,7 +426,7 @@ iptv
 ###数据
 🇨🇳中华直播
 ##
-远程$http://120.53.102.254/live?url=http://52bsj.vip:98/zhzb
+远程$https://raw.githubusercontent.com/LIUYANGZHEN/-/main/zhzb?token=GHSAT0AAAAAAB3Y7DCIJYUT5S6PLPNSSWGUY5CKWJQ
 ####
 
 ####
