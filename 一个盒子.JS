@@ -415,7 +415,7 @@ iptv
 ###数据
 🎪4K源
 ##
-远程$https://agit.ai/1753606713/ajun/raw/commit/d45e57a6286175cfe8d89d8f8c9aaac1d2d21ae8/1315
+远程$https://agit.ai/1753606713/ajun/raw/commit/b2222e3f5d9dfb30a2b92d2c1b6969b4fe4bbd28/4k源.tvt
 ####
 
 ####
