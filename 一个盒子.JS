@@ -8,7 +8,7 @@ iptv
 ###数据
 Agit
 ##
-远程$https://agit.ai/nijiange/SMTT/raw/commit/b21e2c8db130be8dd957c1bfa8518562c53ef69c/直播.txt
+远程$https://agit.ai/Tvbox123/TVbox-4/raw/branch/master/TV/ziyongtv.txt
 ####
 
 ####
