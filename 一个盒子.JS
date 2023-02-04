@@ -8,7 +8,7 @@ iptv
 ###数据
 Agit
 ##
-远程$https://agit.ai/yxxyxq/test/raw/commit/38f732d452bc94a82bebc6a2cdbe707f6040d0a6/q1.txt
+远程$https://agit.ai/nijiange/SMTT/raw/commit/b21e2c8db130be8dd957c1bfa8518562c53ef69c/直播.txt
 ####
 
 ####
